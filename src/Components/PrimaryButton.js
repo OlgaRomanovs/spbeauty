@@ -13,10 +13,10 @@ function PrimaryButton(props) {
         min-width: ${minWidth};
         color: white;
         &:hover {
-            background: linear-gradient(180deg, #4D9FF0 0%, #36699D 100%);
+            background: #5C96F5;
         }
         &:active {
-            background: #152842;
+            background: #636B79;
         }
     `;
     return (
